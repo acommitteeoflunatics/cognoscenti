@@ -1,4 +1,6 @@
-cognoscenti
+Cognoscenti
 ===========
 
-Cognoscenti is a secure, yet simple, automated VPN solution developed for remote employees in small to medium offices. 
+Cognoscenti /ˌkänyōˈSHentē,ˌkägnə-/ is a secure, yet simple, automated VPN solution developed for remote employees in small to medium offices. 
+
+
